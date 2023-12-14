@@ -1,0 +1,21 @@
+SplashKit Animation
+
+//Multi-frame: ranges are in[]
+//[a-b] = numbers from a to b inclusive
+//[a,b,c] = explicit values
+//[a-b,c] = combination
+
+// Weapon cell
+f:0, 4, 1, 
+f:1, 8, 1, 
+f:2, 4, 1,
+f:3, 5, 1,
+
+
+//identifiers
+i:Spear,0
+i:Dagger,1
+i:Sword,2
+i:Axe,3
+
+

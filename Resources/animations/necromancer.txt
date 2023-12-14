@@ -1,0 +1,16 @@
+SplashKit Animation
+
+//Multi-frame: ranges are in[]
+//[a-b] = numbers from a to b inclusive
+//[a,b,c] = explicit values
+//[a-b,c] = combination
+
+// Movement
+f:[0-7],[0-7],30,0
+f:[17-24],[17-24],30,17
+
+
+//identifiers
+i:IdleRight,0
+i:WalkRight,17
+
